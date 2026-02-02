@@ -6,7 +6,7 @@ A little exercise to get started with the specification phase of the software de
 
 See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
 
-- E, Jac
+- [Jack Escowitz](https://github.com/JackREscowitz)
 - G, Diy
 - N, Ale
 - S, Fai
