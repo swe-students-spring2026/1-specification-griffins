@@ -8,7 +8,7 @@ See instructions. Delete this line and replace with a list of the names of your 
 
 - [Jack Escowitz](https://github.com/JackREscowitz)
 - G, Diy
-- N, Ale
+- [Aleks Nuzhnyi](https://github.com/nuzhny25)
 - [Faizan Shamsi](https://github.com/17faizan)
 - [Hao Ming Xia](https://github.com/hewlett-packard-lovecraft)
 
