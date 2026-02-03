@@ -17,6 +17,12 @@ See instructions. Delete this line and replace with a list of the names of your 
 
 See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
 
+### [NAME] - Snow Equipment Lender
+
+### [NAME] - Snow Equipment Renter
+
+### [NAME] - App Administrator
+
 ## Product Vision Statement
 
 See instructions. Delete this line and place your Product Vision Statement here.
