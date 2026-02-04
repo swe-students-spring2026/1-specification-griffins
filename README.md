@@ -26,6 +26,8 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 - Wants to feel safe and protected when renting tools from strangers.
 - App is easy to use for those who aren't tech savvy.
 - The equipment is of good quality and will not break.
+
+
 **Frustrations**
 - Traditional snow shoveling is physically taxing and sometimes dangerous, especially as an older adult.
 - Apps are often confusing and difficult to use as an older adult.
