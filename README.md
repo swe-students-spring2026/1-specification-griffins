@@ -43,7 +43,7 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 
 See instructions. Delete this line and place your Product Vision Statement here.
 
-## User Requirements
+## User Requirements [Aleks Nuzhnyi]
 
 See instructions. Delete this line and place a list of your User Stories here.
 
