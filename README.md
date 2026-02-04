@@ -19,7 +19,21 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 
 ### [NAME] - Snow Equipment Lender
 
-### [NAME] - Snow Equipment Renter
+### [Chandhini Ramaiah] - Snow Equipment Renter
+**Goals**
+- Quick access to snow removal equipment when it snows.
+- Access to affordable snow removal equipment.
+- Wants to feel safe and protected when renting tools from strangers.
+- App is easy to use for those who aren't tech savvy.
+- The equipment is of good quality and will not break.
+**Frustrations**
+- Traditional snow shoveling is physically taxing and sometimes dangerous, especially as an older adult.
+- Apps are often confusing and difficult to use as an older adult.
+- Snow does not occur year round. It is not financially worth it to purchase expensive snow removal equipment that will only be used a handful of times a year.
+- During peak snow seasons, snow removal equipment is hard to obtain in immediate situations.
+- Is uncomfortable asking neighbors to borrow their snow equipment, especially during times when the neighbors also need to use it. 
+
+
 
 ### [NAME] - App Administrator
 
