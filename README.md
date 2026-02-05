@@ -68,7 +68,7 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+Our goal with this application is to build a reliable and easy-to-use platform that connects snow equipment owners with renters in need of it, allowing owners to monetize underused equipment while giving renters affordable and trusted access to tools verified through transparent agreements, reviews, and administrative oversight.
 
 ## User Requirements [Aleks Nuzhnyi]
 "`As a [type of user], I want [some goal] so that [some reason].`" - Delete this before submission 
