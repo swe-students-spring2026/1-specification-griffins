@@ -61,7 +61,16 @@ See instructions. Delete this line and place your Product Vision Statement here.
 "`As a [type of user], I want [some goal] so that [some reason].`" - Delete this before submission 
 
 ### Snow Equipment Lender
-- As a Snow Equipment Lender, I want [some goal] so that [some reason].
+- As a Snow Equipment Lender, I want to make an account so that I can start lending out equipment.
+- As a Snow Equipment Lender, I want to list my equipment so that people can rent it.
+- As a Snow Equipment Lender, I want to set the price so that I know how much I am making.
+- As a Snow Equipment Lender, I want to see the market so that I can make an educated decision on what price I should set.
+- As a Snow Equipment Lender, I want to see reviews of renters so that I know if they are trustworthy or not.
+- As a Snow Equipment Lender, I want to write reviews for renters so that other lenders can see those.
+- As a Snow Equipment Lender, I want to have access to customer support so that I have a mitigator in case of a problem.
+- As a Snow Equipment Lender, I want to see the history of rent so that I know how much money I made.
+- As a Snow Equipment Lender, I want to specify details of the equipment listing so that the users can find the needed equipment more easily.
+- As a Snow Equipment Lender, I want to update my listings so that all of the most recent information is listed under my profile.
 
 ### Snow Equipment Renter
 - As a Snow Equipment Renter, I want to sign up so that I can rent equipment.
