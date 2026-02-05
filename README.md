@@ -100,6 +100,18 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 ### App Administrator
 
+- As an app administrator, I want [some goal] so that [some reason].
+- As an app administrator, I want [some goal] so that [some reason].
+- As an app administrator, I want [some goal] so that [some reason].
+- As an app administrator, I want [some goal] so that [some reason].
+- As an app administrator, I want [some goal] so that [some reason].
+- As an app administrator, I want [some goal] so that [some reason].
+- As an app administrator, I want [some goal] so that [some reason].
+- As an app administrator, I want [some goal] so that [some reason].
+- As an app administrator, I want [some goal] so that [some reason].
+- As an app administrator, I want [some goal] so that [some reason].
+
+
 ## Activity Diagrams
 
 See instructions. Delete this line and place images of your UML Activity diagrams here.
