@@ -17,7 +17,21 @@ See instructions. Delete this line and replace with a list of the names of your 
 
 See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
 
-### [NAME] - Snow Equipment Lender
+### [George Escowitz] - Snow Equipment Lender
+**Goals**
+- Wants to be able to have data regarding the people they lend equipment to (Address, phone number, full name, etc).
+- Wants a way to post a list of equipment they could lend out, with details like equipment serial number and date of purchase.
+- Would like to be able to track history of rent they earned over time.
+- Wants to be able to establish a detailed rental agreement and a way to keep track of them.
+- Wants to be able to keep track of received payments through notifications and records (How, where, and when it was paid).
+- Needs a way to flag customers and differentiate ones with bad history.
+
+
+**Frustrations**
+- As someone who owns equipment, lending out of goodwill often leads to damages that aren't financially compensated.
+- Snow equipment sits in garage unused for most of the year, despite it being a large investment.
+- Purchased snow equipment often becomes technologically outclassed in only a couple of years.
+- Depreciation over time makes reselling equipment difficult, so its hard to make back money from already purchased equipment. In addition, since it depreciates over time even without usage, there is an incentive to put it to any use whenever possible.
 
 ### [Chandhini Ramaiah] - Snow Equipment Renter
 **Goals**
