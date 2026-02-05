@@ -47,11 +47,24 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 - Apps are often confusing and difficult to use as an older adult.
 - Snow does not occur year round. It is not financially worth it to purchase expensive snow removal equipment that will only be used a handful of times a year.
 - During peak snow seasons, snow removal equipment is hard to obtain in immediate situations.
-- Is uncomfortable asking neighbors to borrow their snow equipment, especially during times when the neighbors also need to use it. 
+- It is uncomfortable asking neighbors to borrow their snow equipment, especially during times when the neighbors also need to use it. 
 
 
 
-### [NAME] - App Administrator
+### [Emily Bigio] - App Administrator
+**Goals**
+- Ensure the platform is safe and secure for all users, including fraud and theft prevention.
+- Be able to quickly resolve customer complaints, ensuring customer service has a quick turnaround.
+- Be able to moderate all content on the app, ensuring that posts/users are appropriate and valid.
+- Be able to see whats happening and critical on the entire platform quickly via an easy-to-read dashboard.
+
+
+**Frustrations**
+- All online retailers experience fraudulent user activity. As an example, some users may post products they do not have. If these fraudulent users are not caught quickly, there can be serious repercussions.
+- Sometimes, there are many customer service inquiries at a time which leads to a long turnaround. Customers also get frustrated by this.
+- When an admin platform is complicated, it is difficult to spot critical vulnerabilities quickly. This decreases the security of the platform.
+- Customer service disputes are difficult to resolve without proper proof. 
+
 
 ## Product Vision Statement
 
