@@ -65,16 +65,33 @@ Our goal with this application is to build a reliable and easy-to-use platform t
 
 ### Snow Equipment Lender
 
-- As a Snow Equipment Lender, I want to make an account so that I can start lending out equipment.
-- As a Snow Equipment Lender, I want to list my equipment so that people can rent it.
-- As a Snow Equipment Lender, I want to set the price so that I know how much I am making.
-- As a Snow Equipment Lender, I want to see the market so that I can make an educated decision on what price I should set.
-- As a Snow Equipment Lender, I want to see reviews of renters so that I know if they are trustworthy or not.
-- As a Snow Equipment Lender, I want to write reviews for renters so that other lenders can see those.
-- As a Snow Equipment Lender, I want to have access to customer support so that I have a mitigator in case of a problem.
-- As a Snow Equipment Lender, I want to see the history of rent so that I know how much money I made.
-- As a Snow Equipment Lender, I want to specify details of the equipment listing so that the users can find the needed equipment more easily.
-- As a Snow Equipment Lender, I want to update my listings so that all of the most recent information is listed under my profile.
+**Account Specification**
+- As a Snow Equipment Lender, I want to sign up for an account with a username and password so that I can start lending out equipment.
+- As a Snow Equipment Lender, I want to be able to log in and out of my account so that I can maintain security.
+- As a Snow Equipment Lender, I want to specify whether or not I require Renters to come to the location of my equipment so that Renters can take that into consideration when entering an agreement.
+- As a Snow Equipment Lender, I want to attach the location of my equipment to my account so that Renters can distinguish me as an option close in their area.
+- As a Snow Equipment Lender, I want a user-accumulated review score in terms of five stars publicly attached to my account so that I can distinguish myself as a Lender with a good history of agreements.
+- As a Snow Equipment Lender, I want to attach contact information like email or phone number to my account so I can communicate with Renters about the agreement off the app.
+
+**Posting**
+- As a Snow Equipment Lender, I want to publicly list my equipment so that people can see what I am offering.
+- As a Snow Equipment Lender, I want to publicly set the rental rate for each of my equipment (flat, daily, hourly) so that Renters know what they will be charged.
+- As a Snow Equipment Lender, I want to attach to each listed equipment what type it is (shovel, pusher, blower, etc) so Renters can easily find it via search.
+- As a Snow Equipment Lender, I want to attach to each listed equipment fine details like serial number and date of purchase so that Renters have more information on the equipment they would be renting.
+- As a Snow Equipment Lender, I want to be able to remove and add new equipment so that I can reflect if what I am offering has changed.  
+
+**Searching/Reading**
+- As a Snow Equipment Lender, I want to be able to use a search feature with parameters like area radius, type of equipment, and review stars, so that I can see what equipment my competition is offering.
+- As a Snow Equipment Lender, I want to see the review stars of other accounts so that I know their level of trustworthiness.
+- As a Snow Equipment Lender, I want to see a private history of how much rent money I made off of each listed equipment so that I can keep accounting.
+- As a Snow Equipment Lender, I want to see the contact information of other accounts so that I can initiate communication.
+
+**Payment and Customer Support**
+- As a Snow Equipment Lender, I want to attach my bank account so that I can see that I will receive payment through a scheduled payment that depends on the equipment I am lending out.
+- As a Snow Equipment Lender, I want to receive a notification that a Renter wants to borrow a piece of equipment so that I can enter into an in-app agreement.
+- As a Snow Equipment Lender, I want to be able to confirm an offer of agreement via a received notification so that my bank account can handle the financial details.
+- As a Snow Equipment Lender, I want to be able to check a notification window of all requested agreements so that I can revisit and pick between them.
+- As a Snow Equipment Lender, I want to have access to customer support so that I can seek help regarding the app or disputes.
 
 ### Snow Equipment Renter
 
@@ -88,14 +105,14 @@ Our goal with this application is to build a reliable and easy-to-use platform t
 - As a Snow Equipment Renter, I want to see reviews on the person lending the equipment so that I know they are easy to work with.
 - As a Snow Equipment Renter, I want to chat with lenders so that they can answer questions I might have about the equipment.
 - As a Snow Equipment Renter, I want to be able to search for snow equipment so that I can find the best fit for the particular task at hand.
+- As a Snow Equipment Renter, I want to be able to set up a digital payment method so that I can pay my Lender.
 
 ### App Administrator
 
 - As an app administrator, I want to remove listings so that I can remove faulty or nonfunctional equipment.
-- As an app administrator, I want to remove renter and lender accounts that I can remove problematic renters and lenders 
-- As an app administrator, I want read renter-lender commication so that I can enforce the platform's policies
-- As an app administrator, I want to read reviews so that I can ensure they follow the content policy.
-- As an app administrator, I want to view user reports so that I can enforce the content policy.
+- As an app administrator, I want to remove renter and lender accounts so that I can remove problematic accounts.
+- As an app administrator, I want to be able to read renter-lender communication so that I can enforce the platform's policies and handle disputes.
+- As an app administrator, I want to be able to read reviews so that I can ensure they follow content moderation and so that they can be used in consideration of removing accounts.
 - As an app administrator, I want to approve or reject appeals so that I can reverse a deletion or an account removal.
 - As an app administrator, I want to reverse transactions so that I can grant refunds.
 - As an app administrator, I want to remove renter and lender accounts so that I can remove users who violate the paltforms policies.
