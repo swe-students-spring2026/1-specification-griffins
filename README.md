@@ -58,7 +58,6 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 - Be able to moderate all content on the app, ensuring that posts/users are appropriate and valid.
 - Be able to see whats happening and critical on the entire platform quickly via an easy-to-read dashboard.
 
-
 **Frustrations**
 - All online retailers experience fraudulent user activity. As an example, some users may post products they do not have. If these fraudulent users are not caught quickly, there can be serious repercussions.
 - Sometimes, there are many customer service inquiries at a time which leads to a long turnaround. Customers also get frustrated by this.
@@ -100,16 +99,16 @@ Our goal with this application is to build a reliable and easy-to-use platform t
 
 ### App Administrator
 
-- As an app administrator, I want [some goal] so that [some reason].
-- As an app administrator, I want [some goal] so that [some reason].
-- As an app administrator, I want [some goal] so that [some reason].
-- As an app administrator, I want [some goal] so that [some reason].
-- As an app administrator, I want [some goal] so that [some reason].
-- As an app administrator, I want [some goal] so that [some reason].
-- As an app administrator, I want [some goal] so that [some reason].
-- As an app administrator, I want [some goal] so that [some reason].
-- As an app administrator, I want [some goal] so that [some reason].
-- As an app administrator, I want [some goal] so that [some reason].
+- As an app administrator, I want to remove listings so that I can remove faulty or nonfunctional equipment.
+- As an app administrator, I want to remove renter and lender accounts that I can remove problematic renters and lenders 
+- As an app administrator, I want read renter-lender commication so that I can enforce the platform's policies
+- As an app administrator, I want to read reviews so that I can ensure they follow the content policy.
+- As an app administrator, I want to view user reports so that I can enforce the content policy.
+- As an app administrator, I want to approve or reject appeals so that I can reverse a deletion or an account removal.
+- As an app administrator, I want to reverse transactions so that I can grant refunds.
+- As an app administrator, I want to remove renter and lender accounts so that I can remove users who violate the paltforms policies.
+- As an app administrator, I want to read renter reports so that I can issue refunds for innaproriate behavior for faulty or nonfunctional equipment.
+- As an app administrator, I want read lender reports so that I can issue compensation for innaproriate behavior or damaged equipment.
 
 
 ## Activity Diagrams
