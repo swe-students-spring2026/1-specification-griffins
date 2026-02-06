@@ -4,21 +4,16 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
-
 - [Jack Escowitz](https://github.com/JackREscowitz)
 - [Diya Greben](https://github.com/diyagreben)
 - [Aleks Nuzhnyi](https://github.com/nuzhny25)
 - [Faizan Shamsi](https://github.com/17faizan)
 - [Hao Ming Xia](https://github.com/hewlett-packard-lovecraft)
 
-
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
-
-### [George Escowitz] - Snow Equipment Lender
-**Goals**
+### George Escowitz - Snow Equipment Lender
+**Goals/Needs**
 - Wants to be able to have data regarding the people they lend equipment to (Address, phone number, full name, etc).
 - Wants a way to post a list of equipment they could lend out, with details like equipment serial number and date of purchase.
 - Would like to be able to track history of rent they earned over time.
@@ -26,53 +21,50 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 - Wants to be able to keep track of received payments through notifications and records (How, where, and when it was paid).
 - Needs a way to flag customers and differentiate ones with bad history.
 
-
-**Frustrations**
+**Problems/Frustrations**
 - As someone who owns equipment, lending out of goodwill often leads to damages that aren't financially compensated.
 - Snow equipment sits in garage unused for most of the year, despite it being a large investment.
 - Purchased snow equipment often becomes technologically outclassed in only a couple of years.
 - Depreciation over time makes reselling equipment difficult, so its hard to make back money from already purchased equipment. In addition, since it depreciates over time even without usage, there is an incentive to put it to any use whenever possible.
 
-### [Chandhini Ramaiah] - Snow Equipment Renter
-**Goals**
+### Chandhini Ramaiah - Snow Equipment Renter
+
+**Goals/Needs**
 - Quick access to snow removal equipment when it snows.
 - Access to affordable snow removal equipment.
 - Wants to feel safe and protected when renting tools from strangers.
 - App is easy to use for those who aren't tech savvy.
 - The equipment is of good quality and will not break.
 
-
-**Frustrations**
+**Problems/Frustrations**
 - Traditional snow shoveling is physically taxing and sometimes dangerous, especially as an older adult.
 - Apps are often confusing and difficult to use as an older adult.
 - Snow does not occur year round. It is not financially worth it to purchase expensive snow removal equipment that will only be used a handful of times a year.
 - During peak snow seasons, snow removal equipment is hard to obtain in immediate situations.
 - It is uncomfortable asking neighbors to borrow their snow equipment, especially during times when the neighbors also need to use it. 
 
+### Emily Bigio - App Administrator
 
-
-### [Emily Bigio] - App Administrator
-**Goals**
+**Goals/Needs**
 - Ensure the platform is safe and secure for all users, including fraud and theft prevention.
 - Be able to quickly resolve customer complaints, ensuring customer service has a quick turnaround.
 - Be able to moderate all content on the app, ensuring that posts/users are appropriate and valid.
 - Be able to see whats happening and critical on the entire platform quickly via an easy-to-read dashboard.
 
-**Frustrations**
+**Problems/Frustrations**
 - All online retailers experience fraudulent user activity. As an example, some users may post products they do not have. If these fraudulent users are not caught quickly, there can be serious repercussions.
 - Sometimes, there are many customer service inquiries at a time which leads to a long turnaround. Customers also get frustrated by this.
 - When an admin platform is complicated, it is difficult to spot critical vulnerabilities quickly. This decreases the security of the platform.
 - Customer service disputes are difficult to resolve without proper proof. 
 
-
 ## Product Vision Statement
 
 Our goal with this application is to build a reliable and easy-to-use platform that connects snow equipment owners with renters in need of it, allowing owners to monetize underused equipment while giving renters affordable and trusted access to tools verified through transparent agreements, reviews, and administrative oversight.
 
-## User Requirements [Aleks Nuzhnyi]
-"`As a [type of user], I want [some goal] so that [some reason].`" - Delete this before submission 
+## User Requirements
 
 ### Snow Equipment Lender
+
 - As a Snow Equipment Lender, I want to make an account so that I can start lending out equipment.
 - As a Snow Equipment Lender, I want to list my equipment so that people can rent it.
 - As a Snow Equipment Lender, I want to set the price so that I know how much I am making.
@@ -85,6 +77,7 @@ Our goal with this application is to build a reliable and easy-to-use platform t
 - As a Snow Equipment Lender, I want to update my listings so that all of the most recent information is listed under my profile.
 
 ### Snow Equipment Renter
+
 - As a Snow Equipment Renter, I want to sign up so that I can rent equipment.
 - As a Snow Equipment Renter, I want to look through the offering so that I can find the best fit.
 - As a Snow Equipment Renter, I want to compare prices so that I can choose the best price.
@@ -95,7 +88,6 @@ Our goal with this application is to build a reliable and easy-to-use platform t
 - As a Snow Equipment Renter, I want to see reviews on the person lending the equipment so that I know they are easy to work with.
 - As a Snow Equipment Renter, I want to chat with lenders so that they can answer questions I might have about the equipment.
 - As a Snow Equipment Renter, I want to be able to search for snow equipment so that I can find the best fit for the particular task at hand.
-
 
 ### App Administrator
 
@@ -109,7 +101,6 @@ Our goal with this application is to build a reliable and easy-to-use platform t
 - As an app administrator, I want to remove renter and lender accounts so that I can remove users who violate the paltforms policies.
 - As an app administrator, I want to read renter reports so that I can issue refunds for innaproriate behavior for faulty or nonfunctional equipment.
 - As an app administrator, I want read lender reports so that I can issue compensation for innaproriate behavior or damaged equipment.
-
 
 ## Activity Diagrams
 
