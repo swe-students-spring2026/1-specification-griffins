@@ -155,6 +155,7 @@ See instructions. Delete this line and place images of your UML Activity diagram
 
 ![Snow Equipment Renter UML Diagram](media/renterUML.png)
 
+![Snow Equipment Lender UML Diagram](media/lenderUML.png)
 
 
 ## Clickable Prototype
