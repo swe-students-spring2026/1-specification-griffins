@@ -46,22 +46,6 @@ A little exercise to get started with the specification phase of the software de
 - During peak snow seasons, snow removal equipment is hard to obtain in immediate situations.
 - It is uncomfortable asking neighbors to borrow their snow equipment, especially during times when the neighbors also need to use it. 
 
----
-
-### Emily Bigio - App Administrator
-
-#### Goals/Needs
-- Ensure the platform is safe and secure for all users, including fraud and theft prevention.
-- Be able to quickly resolve customer complaints, ensuring customer service has a quick turnaround.
-- Be able to moderate all content on the app, ensuring that posts/users are appropriate and valid.
-- Be able to see whats happening and critical on the entire platform quickly via an easy-to-read dashboard.
-
-#### Problems/Frustrations
-- All online retailers experience fraudulent user activity. As an example, some users may post products they do not have. If these fraudulent users are not caught quickly, there can be serious repercussions.
-- Sometimes, there are many customer service inquiries at a time which leads to a long turnaround. Customers also get frustrated by this.
-- When an admin platform is complicated, it is difficult to spot critical vulnerabilities quickly. This decreases the security of the platform.
-- Customer service disputes are difficult to resolve without proper proof. 
-
 ## Product Vision Statement
 
 Our goal with this application is to build a reliable and easy-to-use platform that connects snow equipment owners with renters in need of it, allowing owners to monetize underused equipment while giving renters affordable and trusted access to tools verified through transparent agreements, reviews, and administrative oversight.
@@ -122,30 +106,6 @@ Our goal with this application is to build a reliable and easy-to-use platform t
 - As a Snow Equipment Renter, I want payments to be handled through attached bank accounts, so that transactions are secure.
 - As a Snow Equipment Renter, I want to see payment records including date and method, so that I can track expenses.
 - As a Snow Equipment Renter, I want to view my rental history, so that I can reference past agreements.
-
----
-
-### App Administrator
-
-#### Platform Oversight
-- As an App Administrator, I want access to an administrative dashboard, so that I can monitor platform-wide activity.
-- As an App Administrator, I want to view all renter and lender accounts with status and review scores, so that I can oversee user behavior.
-- As an App Administrator, I want to suspend or remove accounts, so that platform policies are enforced.
-
-#### Listings and Content Control
-- As an App Administrator, I want to view and remove equipment listings, so that faulty or fraudulent items are not available.
-- As an App Administrator, I want to monitor star-based reviews, so that suspicious activity can be identified.
-
-#### Agreements, Payments, and Disputes
-- As an App Administrator, I want to view stored rental agreements, so that disputes can be investigated.
-- As an App Administrator, I want to view transaction records, so that financial issues can be resolved.
-- As an App Administrator, I want to reverse transactions or issue refunds, so that disputes are resolved fairly.
-- As an App Administrator, I want to issue compensation when appropriate, so that harmed parties are reimbursed.
-
-#### Reports and Enforcement
-- As an App Administrator, I want to read renter-submitted reports, so that equipment or lender issues can be addressed.
-- As an App Administrator, I want to read lender-submitted reports, so that renter misconduct can be addressed.
-- As an App Administrator, I want to log enforcement actions and outcomes, so that an auditable history exists.
 
 ## Activity Diagrams
 
