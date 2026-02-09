@@ -155,7 +155,23 @@ See instructions. Delete this line and place images of your UML Activity diagram
 
 ![Snow Equipment Renter UML Diagram](media/renterUML.png)
 
+- As a Snow Equipment Renter, I want to create an account with a username and password, so that I can rent equipment.
+- As a Snow Equipment Renter, I want to attach contact information (phone number or email), so that I can communicate with Lenders off the app.
+- As a Snow Equipment Renter, I want to view detailed equipment listings, so that I can evaluate reliability.
+- As a Snow Equipment Renter, I want to see whether equipment requires pickup or delivery, so that I can plan logistics.
+- As a Snow Equipment Renter, I want to view the Lender’s review score, so that I can assess trustworthiness.
+
+
+
 ![Snow Equipment Lender UML Diagram](media/lenderUML.png)
+
+- As a Snow Equipment Lender, I want to create an account with a username and password, so that I can lend equipment through the platform.
+- As a Snow Equipment Lender, I want to attach contact information (phone number or email) to my account, so that Renters can communicate with me off the app.
+- As a Snow Equipment Lender, I want to attach a location to my account, so that Renters can see whether my equipment is nearby.
+- As a Snow Equipment Lender, I want to have a public five-star review score, so that my reliability is visible to potential Renters.
+- As a Snow Equipment Lender, I want to set rental pricing (hourly, daily, or flat rate), so that Renters understand the cost beforehand.
+- As a Snow Equipment Lender, I want to specify whether equipment requires pickup or can be delivered, so that logistics are clear before an agreement.
+- As a Snow Equipment Lender, I want to add or remove equipment listings, so that my available offerings remain accurate.
 
 
 ## Clickable Prototype
