@@ -109,8 +109,6 @@ Our goal with this application is to build a reliable and easy-to-use platform t
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
-
 ### Snow Equipment Renter
 
 ![Snow Equipment Renter UML Diagram](media/renterUML.png)
@@ -136,4 +134,4 @@ See instructions. Delete this line and place images of your UML Activity diagram
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+[Prototype Link](https://www.figma.com/design/MrjMAzSEakAHVmU3eFXDcD/Griffins-Wireframe?node-id=0-1&t=YGLVHpRGS3LCRSjJ-1)
