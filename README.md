@@ -134,4 +134,4 @@ Our goal with this application is to build a reliable and easy-to-use platform t
 
 ## Clickable Prototype
 
-[Prototype Link](https://www.figma.com/design/MrjMAzSEakAHVmU3eFXDcD/Griffins-Wireframe?node-id=0-1&t=YGLVHpRGS3LCRSjJ-1)
+[Prototype Link](https://www.figma.com/proto/MrjMAzSEakAHVmU3eFXDcD/Griffins-Wireframe?node-id=12-2&p=f&t=0KXdLUapamwKAmaw-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=12%3A2)
