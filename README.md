@@ -8,7 +8,7 @@ A little exercise to get started with the specification phase of the software de
 - [Diya Greben](https://github.com/diyagreben)
 - [Aleks Nuzhnyi](https://github.com/nuzhny25)
 - [Faizan Shamsi](https://github.com/17faizan)
-- [Hao Ming Xia](https://github.com/hewlett-packard-lovecraft)
+- [Howard Xia](https://github.com/hewlett-packard-lovecraft)
 
 ## Stakeholders
 
